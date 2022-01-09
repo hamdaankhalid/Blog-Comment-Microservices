@@ -63,5 +63,3 @@ app.listen(4002, async () => {
         console.log(error.message);
     }
 });
-
-// Mongo or Sqlite for persistence with an adater to swith between different databases
